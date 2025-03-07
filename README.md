@@ -1,7 +1,7 @@
 # Ynesmexia-alignments-Taxon2025
 Alignment files from Ynesmexia: a novel genus of cheilanthoid ferns by Blake D. Fauskee, Michael D. Windham, and Kathleen M. Pryer
 
-This repo contains four ailgnment files. Three are from chloroplast genes and contain many other cheilanthoid ferns. The other contains almost exclusively members of Ynesmexia
+This repo contains four ailgnment files. Three are from chloroplast genes and contain many other cheilanthoid ferns. The other is of nuclear locus gapCp and contains almost exclusively members of Ynesmexia
 
 All alignment files are in the alignment directory.
 
